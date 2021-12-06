@@ -1,0 +1,42 @@
+Mwm*foreground :			white
+Mwm*background :			royalblue
+
+Mwm*activeBackground :		DarkGreen
+Mwm*menu*foreground :		white
+Mwm*menu*background :		royalblue
+
+Mwm*fadeNormalIcon:		True
+Mwm*useIconBox :			True
+
+Mwm*cleanText: true
+Mwm*fontList: 10x14
+Mwm*menu*fontList: 10x14
+
+Mwm*keyboardFocusPolicy: pointer
+Mwm*focusAutoRaise: True
+
+Mwm*XClock*clientFunctions:     -minimize
+Mwm*XLoad*clientFunctions:     -minimize
+Mwm*XOsview*clientFunctions:     -minimize
+
+
+
+XTerm*background:       Black
+xterm*foreground:       LightGreen
+XTerm*cursorColor:      Red
+#XTerm.vt100.geometry:   100x60
+XTerm*reverseWrap:      true
+XTerm*scrollKey:        true
+XTerm*saveLines:        2000
+XTerm*scrollBar:        false
+XTerm*scrollTtyOutput:  true
+XTerm*fullCursor: True
+xterm*faceName: DejaVu Sans Mono
+xterm*faceSize: 11
+xterm*renderFont: true
+
+
+
+
+xosview*background: #006400
+XOsview*foreground: #FFFFFF
